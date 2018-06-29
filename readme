@@ -1,2 +1,3 @@
 FNN 
-- Will not run without professor's given code 
+- Recognizes hand written numbers
+- Outputs 10 incorrect predictions with predicted value and actual value
